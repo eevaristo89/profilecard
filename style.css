@@ -60,7 +60,7 @@ html {
   z-index: 10;
   width: 325px;
   height: 375px;
-  background: #fff url(./images/bg-pattern-card.svg) no-repeat;
+  background: #fff url(./bg-pattern-card.svg) no-repeat;
   display: flex;
   flex-direction: column;
   justify-content: center;
